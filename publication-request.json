@@ -3,6 +3,7 @@
   "version": "0.9.0",
   "path": "http://fhir.et/core/0.9.0",
   "milestone": true,
+  "mode" : "milestone",
   "status": "qa-preview",
   "sequence": "Releases",
   "first": true,
