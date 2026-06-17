@@ -55,7 +55,7 @@ Description: "Example instance conforming to the Ethiopian Patient profile"
 // ----------------------------
 // Occupation (Extension)
 // ----------------------------
-* extension[Occupation].valueCodeableConcept = http://fhir.et/core/CodeSystem/occupation-cs#emp "Employeed"
+* extension[Occupation].valueCodeableConcept = http://fhir.et/core/CodeSystem/occupation#emp "Employed"
 
 // ----------------------------
 // Telecom
